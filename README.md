@@ -18,7 +18,7 @@ Where `{term}` is the string that the user has entered so far.
 
 The endpoint always responds with a JSON object that has a results key. The value for that key is either null or an array of objects. Each object, among other keys, has a *name* and a *geo_positition* key. The *geo_position* key is an object with latitude and longitude fields.
 ### Your solution
-Please implement your solution as an App that we can try out. For Android we need 4.2 + 4.3 compatibility or for iOS 8 compatibility. Also send us the source code to your solution. We use GitHub, so if you put your source code into a GitHub repository, it will make our life easy.  
+Please implement your solution as an App that we can try out. For Android we need 4.4 compatibility or for iOS 8 compatibility. Also send us the source code to your solution. We use GitHub, so if you put your source code into a GitHub repository, it will make our life easy.  
 Please provide information for any third party library and tool you are using.
 
 
